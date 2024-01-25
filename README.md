@@ -11,14 +11,14 @@
                 <table>
                     <tr>
                         <th>
-                            <a href="https://github.com/aoli-al">
                                 <img src="https://github.com/aoli-al.png" alt="1" width=100px height=100px>
-                            </a>
                         </th>
                     <tr>
                     <tr>
                         <th>
-                            <a href="https://github.com/CMU-313/spring24-nodebb-test-ao/commits?author=aoli-al">aoli-al</a>
+                            <a href="https://github.com/aoli-al">
+                            aoli-al
+                            </a>
                         </th>
                     <tr>
                 </table>
@@ -27,7 +27,9 @@
                 <table>
                     <tr>
                         <th align="left">
+                            <a href="https://github.com/CMU-313/spring24-nodebb-test-ao/commits?author=aoli-al&since=2024-01-20T00:00:00-05:00&until=2024-03-29T23:59:00-05:00">
                             Commit: 4
+                            </a>
                         </th>
                     <tr>
                     <tr>
@@ -42,12 +44,16 @@
                     <tr>
                     <tr>
                         <th align="left">
+                            <a href="https://github.com/CMU-313/spring24-nodebb-test-ao/issues?q=author%3Aaoli-al+type%3Aissue+created%3A2024-01-20T00:00:00-05:00..2024-03-29T23:59:00-05:00">
                             Issues: 0
+                            </a>
                         </th>
                     <tr>
                     <tr>
                         <th align="left">
+                            <a href="https://github.com/CMU-313/spring24-nodebb-test-ao/pulls?q=author%3Aaoli-al+type%3Apr+created%3A2024-01-20T00:00:00-05:00..2024-03-29T23:59:00-05:00">
                             PRs: 0
+                            </a>
                         </th>
                     <tr>
                     <tr>
