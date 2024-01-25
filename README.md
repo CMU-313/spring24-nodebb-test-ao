@@ -1,5 +1,67 @@
 # Contributors
 
+## Project 2 (2024-01-20-2024-03-29)
+<details>
+    <summary>Click to expand!</summary>
+<table><tr>
+<th>
+    <table>
+        <tr>
+            <th>
+                <table>
+                    <tr>
+                        <th>
+                            <a href="https://github.com/aoli-al">
+                                <img src="https://github.com/aoli-al.png" alt="1" width=100px height=100px>
+                            </a>
+                        </th>
+                    <tr>
+                    <tr>
+                        <th>
+                            <a href="https://github.com/CMU-313/spring24-nodebb-test-ao/commits?author=aoli-al">aoli-al</a>
+                        </th>
+                    <tr>
+                </table>
+            </th>
+            <th>
+                <table>
+                    <tr>
+                        <th align="left">
+                            Commit: 3
+                        </th>
+                    <tr>
+                    <tr>
+                        <th align="left">
+                            Addition: 3
+                        </th>
+                    <tr>
+                    <tr>
+                        <th align="left">
+                            Deletion: 2
+                        </th>
+                    <tr>
+                    <tr>
+                        <th align="left">
+                            Issues: 0
+                        </th>
+                    <tr>
+                    <tr>
+                        <th align="left">
+                            PRs: 0
+                        </th>
+                    <tr>
+                    <tr>
+                        <th align="left">
+                            Comments: 0
+                        </th>
+                    <tr>
+                </table>
+            </th>
+        <tr>
+    </table>
+</th>
+</tr></table></details>
+
 
 
 THIS IS A COMMIT
