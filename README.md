@@ -27,7 +27,7 @@
                 <table>
                     <tr>
                         <th align="left">
-                            Commit: 3
+                            Commit: 4
                         </th>
                     <tr>
                     <tr>
@@ -37,7 +37,7 @@
                     <tr>
                     <tr>
                         <th align="left">
-                            Deletion: 2
+                            Deletion: 3
                         </th>
                     <tr>
                     <tr>
