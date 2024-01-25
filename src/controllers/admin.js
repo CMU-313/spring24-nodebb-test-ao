@@ -4,8 +4,7 @@ const privileges = require('../privileges');
 const helpers = require('./helpers');
 
 const adminController = {
-    dashboard: require('./admin/dashboard'),
-    categories: require('./admin/categories'),
+    dashboard: require('./admin/dashboard'),categories: require('./admin/categories'),
     privileges: require('./admin/privileges'),
     adminsMods: require('./admin/admins-mods'),
     tags: require('./admin/tags'),
